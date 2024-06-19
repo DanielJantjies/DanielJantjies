@@ -9,17 +9,20 @@
 
 - 🔭 I’m currently working on [SDF Portfolio Piece](https://github.com/DanielJantjies/SDF_Portfolio_Piece_DANJAN610_PTO2403_GroupC_DANIEL_JANTJIES-SDF11)
 
-- 🌱 I’m currently learning **Software Development Fundamentals at CodeSpace Academy**
+- 🌱 I’m currently learning **Software Development Fundamentals at CodeSpace Academy.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielJantjies](https://github.com/DanielJantjies)
 
-- 💬 Ask me about **Tailwind, NodeJs**
+- 💬 Ask me about **HTML, JavaScript,Tailwind, CSS, NodeJs.**
 
 - 📫 How to reach me **djantjies9@gmail.com**
+
+- ⚡ Fun fact **I started debugging code in my sleep...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/danieljantjies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="danieljantjies" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel_jantjies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel_jantjies" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_jantjies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_jantjies" height="30" width="40" /></a>
 </p>
 
