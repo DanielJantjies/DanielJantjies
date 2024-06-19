@@ -19,9 +19,6 @@
 
 - ⚡ Fun fact **I started debugging code in my sleep...**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 - 🧰 Toolbox
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50" />
